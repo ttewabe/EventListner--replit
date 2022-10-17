@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+span{
+    background: #1d1f2b;
+    padding: 30px;
+    margin: 50px 50px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-weight:700;
+    font-size: 70px;
+    border-radius: 50%;
+   
+}
